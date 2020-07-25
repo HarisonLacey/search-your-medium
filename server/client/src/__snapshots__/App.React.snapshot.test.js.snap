@@ -1,0 +1,117 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    className="searchBox"
+  >
+    <select
+      onChange={[Function]}
+    >
+      <option
+        value=""
+      >
+        All
+      </option>
+      <option
+        value="movie"
+      >
+        Movie
+      </option>
+      <option
+        value="podcast"
+      >
+        Podcast
+      </option>
+      <option
+        value="music"
+      >
+        Music
+      </option>
+      <option
+        value="musicVideo"
+      >
+        Music Video
+      </option>
+      <option
+        value="audiobook"
+      >
+        Audiobook
+      </option>
+      <option
+        value="shortFilm"
+      >
+        Short Film
+      </option>
+      <option
+        value="tvShow"
+      >
+        TV Show
+      </option>
+      <option
+        value="software"
+      >
+        Software
+      </option>
+    </select>
+    <div
+      className="search input-group"
+    >
+      <input
+        className="form-control"
+        onChange={[Function]}
+        placeholder="Search Your Medium..."
+      />
+      <div
+        className="input-group-append"
+      >
+        <button
+          className="btn btn-outline-secondary"
+          disabled={false}
+          onClick={[Function]}
+          type="button"
+        >
+          Search
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    className="container-fluid"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col col-sm-8"
+      >
+        <div />
+        <img
+          alt="headphone"
+          className="logo"
+          src="headphone.png"
+        />
+      </div>
+      <div
+        className="col col-right col-sm-4"
+      >
+        <h4
+          className="noFave"
+        >
+          
+        </h4>
+        <div />
+        <button
+          className="view-button btn btn-outline-secondary"
+          disabled={false}
+          onClick={[Function]}
+          type="button"
+        >
+          View Favourites
+        </button>
+      </div>
+    </div>
+  </div>
+  <footer />
+</div>
+`;
