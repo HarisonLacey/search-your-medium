@@ -1,6 +1,6 @@
 # L2T21 - Meadia Search App
 
-This is an application built using React and Express that allows user's to search the iTunes Search API.
+This is an application built from scratch using React and Express that allows user's to search the iTunes Search API.
 
 The application lets the user select the media they would like to find and then input the term they would like to search for.
 
